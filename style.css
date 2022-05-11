@@ -1,0 +1,28 @@
+.main {
+    text-align: center;
+}
+
+h1 {
+    color: black;
+    font-size: 50px;
+}
+
+#b1, #b2, #b3, #b4, #b5,
+#b6, #b7, #b8, #b9 {
+    width: 70px;
+    height: 55px;
+    border: 1px solid gray;
+    border-radius: 10px;
+    font-size: 30px;
+    text-align: center;
+}
+
+button {
+    width: 95px;
+    height: 40px;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    cursor: pointer;
+}
+
